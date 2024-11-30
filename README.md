@@ -1,1 +1,1 @@
-# [Data Science Salaries]([https://link-url-here.org](https://kaggle.com/datasets/arnabchaki/data-science-salaries-2023))
+# [Data Science Salaries](https://kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
