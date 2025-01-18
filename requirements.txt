@@ -1,0 +1,106 @@
+accelerate==0.34.2
+ai-junk @ file:///C:/Users/markk/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/AI-JUNK/drive-download-20230830T160252Z-001/ai_junk-1.0-py2.py3-none-any.whl
+aiohappyeyeballs==2.4.0
+aiohttp==3.10.5
+aiosignal==1.3.1
+asttokens==2.4.1
+async-timeout==4.0.3
+attrs==24.2.0
+certifi==2023.7.22
+charset-normalizer==3.3.1
+cloudpickle==3.0.0
+colorama==0.4.6
+comm==0.1.4
+contourpy==1.1.1
+cycler==0.12.1
+datasets==3.0.0
+debugpy==1.8.0
+decorator==5.1.1
+dill==0.3.8
+docstring_parser==0.16
+exceptiongroup==1.1.3
+executing==2.0.1
+filelock==3.13.0
+fonttools==4.43.1
+frozenlist==1.4.1
+fsspec==2024.6.1
+greenlet==3.0.3
+gym==0.21.0
+huggingface-hub==0.25.0
+idna==3.4
+imageio @ file:///C:/Users/markk/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/AI-JUNK/drive-download-20230830T160252Z-001/imageio/imageio-2.31.1-py3-none-any.whl
+imageio-ffmpeg @ file:///C:/Users/markk/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/AI-JUNK/drive-download-20230830T160252Z-001/imageio-ffmpeg/imageio_ffmpeg-0.4.8-py3-none-win_amd64.whl
+importlib-metadata==4.13.0
+ipykernel==6.26.0
+ipynb==0.5.1
+ipython==8.17.2
+jedi==0.19.1
+Jinja2==3.1.2
+joblib==1.3.2
+jupyter_client==8.5.0
+jupyter_core==5.5.0
+keyboard @ file:///C:/Users/markk/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/AI-JUNK/drive-download-20230830T160252Z-001/keyboard/keyboard-0.13.5-py3-none-any.whl
+kiwisolver==1.4.5
+markdown-it-py==3.0.0
+MarkupSafe==2.1.3
+matplotlib @ file:///C:/Users/markk/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/AI-JUNK/drive-download-20230830T160252Z-001/matplotlib/matplotlib-3.7.1-cp310-cp310-win_amd64.whl
+matplotlib-inline==0.1.6
+mdurl==0.1.2
+mpmath==1.3.0
+multidict==6.1.0
+multiprocess==0.70.16
+nest-asyncio==1.5.8
+networkx==3.2.1
+numpy==1.26.1
+opencv-python @ file:///C:/Users/markk/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/AI-JUNK/drive-download-20230830T160252Z-001/opencv-python/opencv_python-4.7.0.72-cp37-abi3-win_amd64.whl
+packaging==23.2
+pandas==2.1.2
+parso==0.8.3
+peft==0.12.0
+Pillow==10.1.0
+platformdirs==3.11.0
+prettytable==3.9.0
+prompt-toolkit==3.0.39
+psutil==5.9.6
+psycopg2==2.9.9
+pure-eval==0.2.2
+pyarrow==17.0.0
+Pygments==2.16.1
+pyparsing==3.1.1
+python-dateutil==2.8.2
+pytz==2023.3.post1
+pywin32==306
+PyYAML==6.0.2
+pyzmq==25.1.1
+regex==2024.9.11
+requests==2.32.3
+rich==13.8.1
+safetensors==0.4.5
+scikit-learn==1.6.1
+scipy==1.11.3
+seaborn==0.13.2
+shtab==1.7.1
+six==1.16.0
+SQLAlchemy==2.0.28
+stable-baselines3 @ file:///C:/Users/markk/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/AI-JUNK/drive-download-20230830T160252Z-001/stable-baselines3/stable_baselines3-1.8.0-py3-none-any.whl
+stack-data==0.6.3
+sympy==1.12
+tabulate==0.9.0
+threadpoolctl==3.2.0
+tokenizers==0.19.1
+torch @ file:///C:/Users/markk/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/AI-JUNK/drive-download-20230830T160252Z-001/torch/torch-2.0.1-cp310-cp310-win_amd64.whl
+torchvision @ file:///C:/Users/markk/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/AI-JUNK/drive-download-20230830T160252Z-001/torch/torchvision-0.15.2-cp310-cp310-win_amd64.whl
+tornado==6.3.3
+tqdm==4.66.5
+traitlets==5.13.0
+transformers==4.44.2
+trl==0.11.0
+typing_extensions==4.8.0
+tyro==0.8.11
+tzdata==2023.3
+urllib3==2.0.7
+wcwidth==0.2.9
+xgboost==2.1.1
+xxhash==3.5.0
+yarl==1.11.1
+zipp==3.17.0
